@@ -1,0 +1,10 @@
+17:39:36 **** Incremental Build of configuration Debug for project serial_rx ****
+make -j16 all 
+arm-none-eabi-size  serial_rx.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8108	     20	   1644	   9772	   262c	serial_rx.elf
+Finished building: default.size.stdout
+ 
+
+17:39:36 Build Finished. 0 errors, 0 warnings. (took 227ms)
+
